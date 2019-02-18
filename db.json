@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "A new World"
+        },
+        {
+            "id": 2,
+            "title": "Nothing left"
+        }
+    ],
+    "friends": [
+        {
+            "uid": 1,
+            "username": "Tommy"
+        },
+        {
+            "uid": 2,
+            "username": "Clara"
+        }
+    ]
+}
