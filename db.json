@@ -2,21 +2,17 @@
     "posts": [
         {
             "id": 1,
-            "title": "A new World"
+            "author": "Maximuss",
+            "title": "How to play Lulu aggresively?",
+            "summary": "Lulu is one of the most underrated champion in League. How to turn around in this patch?",
+            "content": "Lulu builds: something something something something something something something"
         },
         {
             "id": 2,
-            "title": "Nothing left"
-        }
-    ],
-    "friends": [
-        {
-            "uid": 1,
-            "username": "Tommy"
-        },
-        {
-            "uid": 2,
-            "username": "Clara"
+            "author": "Maximusss",
+            "title": "A boring life",
+            "summary": "This is such a boring life",
+            "content": "something something something something something something"
         }
     ]
 }
