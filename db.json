@@ -5,14 +5,28 @@
             "author": "Maximuss",
             "title": "How to play Lulu aggresively?",
             "summary": "Lulu is one of the most underrated champion in League. How to turn around in this patch?",
-            "content": "Lulu builds: something something something something something something something"
+            "content": "Lulu builds: something something something something something something something",
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "Tommy",
+                    "comment": "That is great !"
+                }
+            ]
         },
         {
             "id": 2,
             "author": "Maximusss",
             "title": "A boring life",
             "summary": "This is such a boring life",
-            "content": "something something something something something something"
+            "content": "something something something something something something",
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "Duke",
+                    "comment": "That is poor !"
+                }
+            ]
         }
     ]
 }
